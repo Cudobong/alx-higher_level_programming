@@ -1,1 +1,1 @@
-sh: 1: wq: not found
+0x00. Python - Hello, World
